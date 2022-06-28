@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  NarfuQuote
 //
-//  Created by Nguyen Dang Quy on 09/04/2022.
+//  Created by Nguyen Dang Quy on 14/04/2022.
 //
 
 import UIKit
